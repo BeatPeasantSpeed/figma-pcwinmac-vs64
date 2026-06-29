@@ -1,4 +1,4 @@
-# 
+# Custom Figma tools for Mac OS | Lightweight Figma tools for PC Windows. Featuring paragraph-styles and fill-bucket — optimized for maximum performance on every platform.
 
 
 
